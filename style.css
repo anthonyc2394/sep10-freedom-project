@@ -9,7 +9,35 @@
     transform: translate(-50%, -50%);
 }
 
+.center-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+}
+
 .row {
     display: flex;
     justify-content: center;
 }
+
+/*.card1 {*/
+/*    margin: 0;*/
+/*    position: absolute;*/
+/*    left: 35%;*/
+/*    transform: translate(-50%, -50%);*/
+/*}*/
+
+/*.card2 {*/
+/*    margin: 0;*/
+/*    position: absolute;*/
+/*    left: 59%;*/
+/*    transform: translate(-50%, -50%);*/
+/*}*/
+
+/*.card3 {*/
+/*    margin: 0;*/
+/*    position: absolute;*/
+/*    left: 83%;*/
+/*    transform: translate(-50%, -50%);*/
+/*}*/
