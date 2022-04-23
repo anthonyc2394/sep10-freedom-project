@@ -30,6 +30,10 @@
   background-image: linear-gradient(#1c0000, #380000, #530000, #6f0000);
   margin: 650px;
 }
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+}
 /*.card1 {*/
 /*    margin: 0;*/
 /*    position: absolute;*/
