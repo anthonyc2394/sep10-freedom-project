@@ -22,36 +22,7 @@
     margin-right: auto;
 }
 
-#grad {
-  /*background-color: #800000;*/
-  background-image: linear-gradient(#1c0000, #380000, #530000, #6f0000);
-}
-
-.bggrad {
-  background-image: linear-gradient(#1c0000, #380000, #530000, #6f0000);
-  margin: 650px;
-}
 
 h1 {
   font-family: 'Montserrat', sans-serif;
 }
-/*.card1 {*/
-/*    margin: 0;*/
-/*    position: absolute;*/
-/*    left: 35%;*/
-/*    transform: translate(-50%, -50%);*/
-/*}*/
-
-/*.card2 {*/
-/*    margin: 0;*/
-/*    position: absolute;*/
-/*    left: 59%;*/
-/*    transform: translate(-50%, -50%);*/
-/*}*/
-
-/*.card3 {*/
-/*    margin: 0;*/
-/*    position: absolute;*/
-/*    left: 83%;*/
-/*    transform: translate(-50%, -50%);*/
-/*}*/
